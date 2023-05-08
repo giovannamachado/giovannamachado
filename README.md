@@ -2,14 +2,14 @@
 
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannamachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/toplangs/username=giovannamachado&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannamachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamachado&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="https://github.com/LuigiGf/LuigiGf/blob/main/code.gif">
     <h1 align="center">Linguagens :robot: </h1>
     <img align="center" height="30" width="40" alt="js-icon"  
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
