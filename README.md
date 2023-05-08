@@ -13,7 +13,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://github.com/giovannamachado/giovannamachado/blob/main/gifizinho.gif)">
+    <img align="left" height="250" alt="coding-time" src="https://github.com/giovannamachado/giovannamachado/blob/main/gifizinho.gif">
     <h1 align="center">Linguagens :robot: </h1>
     <img align="center" height="30" width="40" alt="js-icon"  
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
