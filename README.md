@@ -1,4 +1,4 @@
-## :smile:  Olá, eu sou Giovanna Machado! 
+## :smile:Olá, eu sou Giovanna Machado! 
 
 
 <div>
