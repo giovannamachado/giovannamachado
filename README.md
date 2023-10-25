@@ -37,5 +37,4 @@
     
 
 
-![Snake animation](https://github.com/giovannamachado/giovannamachado/blob/output/github-contribution-grid-snake.svg)
 
