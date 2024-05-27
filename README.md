@@ -1,4 +1,4 @@
-## :smile:Olá, eu sou **Giovanna Machado**! 
+## Olá, eu sou **Giovanna Machado**! :smile:
 
 #### Sou estudante de Sistemas de Informação no [CIn-UFPE](https://portal.cin.ufpe.br/)
 
