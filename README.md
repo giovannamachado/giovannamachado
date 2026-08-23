@@ -26,6 +26,8 @@ Software engineer with almost three years building web applications in productio
 | --- | --- | --- |
 | **[ai-content-generator](https://github.com/giovannamachado/ai-content-generator)** &middot; [live](https://ai-content-generator-tcc.vercel.app) | Undergraduate thesis. Generates Instagram content aligned with a brand's persona, tone of voice and visual identity. The brand's reference documents are injected **whole** into the model's context window instead of being chunked and embedded. | Next.js 16, React 19, TypeScript, Tailwind, Google Gemini |
 | **[sales-assistant](https://github.com/giovannamachado/sales-assistant)** | LLM sales assistant for a pet e-commerce, with automatic fallback across 6 Groq models so the service stays available when a provider fails. | Flask, Groq (LLaMA 3.3 70B, Gemma), React, TypeScript, Vite |
+| **[OCR-Project](https://github.com/giovannamachado/OCR-Project)** | Document processing: OCR text extraction from uploaded bills, then an LLM layer that answers questions about the extracted content. | NestJS, TypeScript, Tesseract.js, LLM API |
+| **[produtos_favoritos](https://github.com/giovannamachado/produtos_favoritos)** | REST API for customers and favorite products. JWT auth with roles, bcrypt, a cache layer over an external product API, and 27 automated tests. | FastAPI, Python, PostgreSQL, Pydantic, pytest |
 | **[API-Agregador-de-Dados-Ktor](https://github.com/giovannamachado/API-Agregador-de-Dados-Ktor)** | News aggregator API that queries Dev.to, Hacker News and Reddit in parallel with coroutines, without blocking threads. | Kotlin, Ktor, Coroutines, kotlinx.serialization |
 | **[AnaliseDeIndicadoresDeNegocio](https://github.com/giovannamachado/AnaliseDeIndicadoresDeNegocio)** | Sales indicator analysis: revenue, month-over-month growth, average ticket and cancellation rate. | SQL, Python, Pandas, Matplotlib, Seaborn |
 
@@ -35,7 +37,7 @@ Software engineer with almost three years building web applications in productio
 
 **AI & LLMs** &nbsp; Google Gemini &middot; Groq &middot; LLaMA &middot; prompt engineering &middot; long context
 
-**Web** &nbsp; React &middot; Next.js &middot; Laravel &middot; Flask &middot; Ktor &middot; REST APIs
+**Web** &nbsp; React &middot; Next.js &middot; NestJS &middot; Laravel &middot; FastAPI &middot; Flask &middot; Ktor &middot; REST APIs
 
 **Data** &nbsp; PostgreSQL &middot; MySQL &middot; SQLite &middot; Pandas
 
