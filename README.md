@@ -42,7 +42,3 @@ Software engineer with almost three years building web applications in productio
 **Data** &nbsp; PostgreSQL &middot; MySQL &middot; SQLite &middot; Pandas
 
 **Infra** &nbsp; Docker &middot; CI/CD &middot; AWS &middot; Azure DevOps &middot; Git &middot; Linux
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/giovannamachado/giovannamachado/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
